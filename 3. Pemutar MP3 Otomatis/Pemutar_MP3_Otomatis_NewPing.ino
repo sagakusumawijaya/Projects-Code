@@ -1,7 +1,6 @@
-//#include <Arduino.h>
-#include <DFMiniMp3.h>
+#include <DFMiniMp3.h> // https://github.com/Makuna/DFMiniMp3
 #include <SoftwareSerial.h>
-#include <NewPing.h>
+#include <NewPing.h> // https://bitbucket.org/teckel12/arduino-new-ping/wiki/Home
 
 #define arduTX 4
 #define arduRX 5
